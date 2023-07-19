@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "216359645268",
+    "project_id": "verbs-ac039",
+    "storage_bucket": "verbs-ac039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216359645268:android:1a3a90d5d5607f736d3dc1",
+        "android_client_info": {
+          "package_name": "com.example.irrefular_verbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216359645268-8dq1cm1ha0bs1d543fqio25o97nmnnto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1IOYpX7pTrzzx4alDum9drKpiKm75Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216359645268-8dq1cm1ha0bs1d543fqio25o97nmnnto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216359645268-qsgkffk43qt1s1if7ndke814t4n517e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.irrefularVerbs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
